@@ -1,0 +1,41 @@
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments & extracted binary directories
+syncspace/
+DLLs/
+Doc/
+Lib/
+libs/
+Scripts/
+share/
+tcl/
+venv/
+.venv/
+env/
+
+# Sensitive secrets and user credentials
+bruh.json
+credentials.json
+token.pickle
+passwords.json
+key.key
+.env
+
+# Temporary and log files
+temp.txt
+*.log
+
+# IDE and OS metadata
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
