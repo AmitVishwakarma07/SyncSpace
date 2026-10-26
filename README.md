@@ -2,8 +2,6 @@
 
 **SyncSpace** is an AI-powered desktop smart notepad and workspace application built with Python and Tkinter (`ttkbootstrap`). It brings together rich text editing, cloud synchronization via Google Drive, encrypted credential management, and local machine learning models for intelligent writing assistance.
 
-![SyncSpace Desktop Interface](assets/preview.png)
-
 ---
 
 ## Features
@@ -98,8 +96,6 @@ python syncspace.py
 
 ```
 syncspace/
-├── assets/
-│   └── preview.png       # Live application screenshot
 ├── syncspace.py          # Main application entry point & GUI
 ├── requirements.txt      # Python dependencies
 ├── bruh.example.json     # Template for Google OAuth credentials
